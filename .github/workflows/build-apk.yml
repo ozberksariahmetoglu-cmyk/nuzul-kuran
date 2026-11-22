@@ -12,6 +12,11 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: nuzul-kuran
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -22,19 +27,25 @@ jobs:
           channel: stable
           cache: true
 
-      - name: Generate Android platform files
+      - name: Check project
+        run: |
+          test -f pubspec.yaml
+          test -f lib/main.dart
+          head -n 5 lib/main.dart
+
+      - name: Generate Android files
         run: flutter create --platforms=android --org com.nuzul --project-name nuzul_kuran .
 
       - name: Get dependencies
         run: flutter pub get
 
-      - name: Build release APK
+      - name: Build APK
         run: flutter build apk --release
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
           name: nuzul-kuran-apk
-          path: build/app/outputs/flutter-apk/app-release.apk
+          path: nuzul-kuran/build/app/outputs/flutter-apk/app-release.apk
           if-no-files-found: error
           retention-days: 30
