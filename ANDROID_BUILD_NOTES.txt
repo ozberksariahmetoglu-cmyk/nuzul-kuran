@@ -1,0 +1,5 @@
+GitHub Actions APK derlemesi:
+1) Proje içeriğini nuzul-kuran deposunun kök dizinine yükleyin.
+2) Actions sekmesini açın.
+3) Android APK iş akışını seçin ve Run workflow düğmesine basın.
+4) Tamamlanınca workflow sayfasındaki Artifacts bölümünden nuzul-kuran-apk dosyasını indirin.

@@ -1,0 +1,332 @@
+[
+  {
+    "order": 1,
+    "number": 96,
+    "name": "Alak",
+    "page": 22
+  },
+  {
+    "order": 2,
+    "number": 68,
+    "name": "Kalem",
+    "page": 32
+  },
+  {
+    "order": 3,
+    "number": 73,
+    "name": "Müzzemmi̇l",
+    "page": 39
+  },
+  {
+    "order": 4,
+    "number": 74,
+    "name": "Müddessi̇r",
+    "page": 50
+  },
+  {
+    "order": 5,
+    "number": 1,
+    "name": "Fati̇ha",
+    "page": 64
+  },
+  {
+    "order": 6,
+    "number": 111,
+    "name": "Leheb",
+    "page": 71
+  },
+  {
+    "order": 7,
+    "number": 81,
+    "name": "Tekvi̇r",
+    "page": 75
+  },
+  {
+    "order": 8,
+    "number": 87,
+    "name": "A'Lâ",
+    "page": 79
+  },
+  {
+    "order": 9,
+    "number": 92,
+    "name": "Leyl",
+    "page": 82
+  },
+  {
+    "order": 10,
+    "number": 89,
+    "name": "Fecr",
+    "page": 86
+  },
+  {
+    "order": 11,
+    "number": 93,
+    "name": "D U H A",
+    "page": 92
+  },
+  {
+    "order": 12,
+    "number": 94,
+    "name": "İnşi̇rah",
+    "page": 96
+  },
+  {
+    "order": 13,
+    "number": 103,
+    "name": "Asr",
+    "page": 98
+  },
+  {
+    "order": 14,
+    "number": 100,
+    "name": "Adi̇yat",
+    "page": 105
+  },
+  {
+    "order": 15,
+    "number": 108,
+    "name": "Kevser",
+    "page": 107
+  },
+  {
+    "order": 16,
+    "number": 102,
+    "name": "Tekâsür",
+    "page": 110
+  },
+  {
+    "order": 17,
+    "number": 107,
+    "name": "M Â Û N",
+    "page": 113
+  },
+  {
+    "order": 18,
+    "number": 109,
+    "name": "Kâfi̇run",
+    "page": 118
+  },
+  {
+    "order": 19,
+    "number": 105,
+    "name": "Fi̇l",
+    "page": 126
+  },
+  {
+    "order": 20,
+    "number": 106,
+    "name": "Kureyş",
+    "page": 128
+  },
+  {
+    "order": 22,
+    "number": 114,
+    "name": "Nâs",
+    "page": 138
+  },
+  {
+    "order": 23,
+    "number": 80,
+    "name": "Abese",
+    "page": 147
+  },
+  {
+    "order": 24,
+    "number": 97,
+    "name": "Kadi̇r",
+    "page": 151
+  },
+  {
+    "order": 25,
+    "number": 91,
+    "name": "Şems",
+    "page": 154
+  },
+  {
+    "order": 26,
+    "number": 85,
+    "name": "Burûc",
+    "page": 158
+  },
+  {
+    "order": 27,
+    "number": 95,
+    "name": "T İ N",
+    "page": 163
+  },
+  {
+    "order": 28,
+    "number": 101,
+    "name": "Kâri̇a",
+    "page": 165
+  },
+  {
+    "order": 29,
+    "number": 75,
+    "name": "Kiyamet",
+    "page": 167
+  },
+  {
+    "order": 30,
+    "number": 104,
+    "name": "Hümeze",
+    "page": 173
+  },
+  {
+    "order": 31,
+    "number": 77,
+    "name": "Mürselat",
+    "page": 176
+  },
+  {
+    "order": 32,
+    "number": 86,
+    "name": "- Tarik",
+    "page": 181
+  },
+  {
+    "order": 33,
+    "number": 90,
+    "name": "Beled",
+    "page": 184
+  },
+  {
+    "order": 34,
+    "number": 50,
+    "name": "Kâf",
+    "page": 189
+  },
+  {
+    "order": 35,
+    "number": 54,
+    "name": "Kamer",
+    "page": 197
+  },
+  {
+    "order": 36,
+    "number": 44,
+    "name": "Yasin",
+    "page": 252
+  },
+  {
+    "order": 37,
+    "number": 53,
+    "name": "Necm",
+    "page": 215
+  },
+  {
+    "order": 38,
+    "number": 82,
+    "name": "İnfi̇tar",
+    "page": 225
+  },
+  {
+    "order": 39,
+    "number": 84,
+    "name": "İnşi̇kak",
+    "page": 227
+  },
+  {
+    "order": 40,
+    "number": 67,
+    "name": "Mülk",
+    "page": 229
+  },
+  {
+    "order": 41,
+    "number": 69,
+    "name": "Hakka",
+    "page": 232
+  },
+  {
+    "order": 42,
+    "number": 70,
+    "name": "M E Ari̇ C",
+    "page": 236
+  },
+  {
+    "order": 43,
+    "number": 38,
+    "name": "Sad",
+    "page": 239
+  },
+  {
+    "order": 47,
+    "number": 94,
+    "name": "M U H A M M E D",
+    "page": 739
+  },
+  {
+    "order": 50,
+    "number": 30,
+    "name": "Rum",
+    "page": 316
+  },
+  {
+    "order": 52,
+    "number": 82,
+    "name": "T U R",
+    "page": 656
+  },
+  {
+    "order": 62,
+    "number": 95,
+    "name": "Cuma",
+    "page": 744
+  },
+  {
+    "order": 63,
+    "number": 99,
+    "name": "M Ü N A F İ K U N",
+    "page": 872
+  },
+  {
+    "order": 64,
+    "number": 93,
+    "name": "T E Ğ A B Ü N",
+    "page": 735
+  },
+  {
+    "order": 71,
+    "number": 66,
+    "name": "N U H",
+    "page": 446
+  },
+  {
+    "order": 72,
+    "number": 75,
+    "name": "Ci̇n",
+    "page": 538
+  },
+  {
+    "order": 78,
+    "number": 83,
+    "name": "Nebe",
+    "page": 662
+  },
+  {
+    "order": 79,
+    "number": 84,
+    "name": "Nazi̇at",
+    "page": 664
+  },
+  {
+    "order": 83,
+    "number": 89,
+    "name": "Mutaffifin",
+    "page": 716
+  },
+  {
+    "order": 98,
+    "number": 91,
+    "name": "Beyyine",
+    "page": 730
+  },
+  {
+    "order": 99,
+    "number": 92,
+    "name": "Zi̇lzal",
+    "page": 733
+  }
+]

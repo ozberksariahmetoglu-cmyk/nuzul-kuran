@@ -1,0 +1,21 @@
+name: nuzul_kuran
+description: Türkçe meal ve tefsir için çevrimdışı Android okuma uygulaması.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  pdfrx: ^1.3.2
+  shared_preferences: ^2.3.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/yasayan_kuran.pdf
+    - assets/data/book.txt
+    - assets/data/surahs.json
